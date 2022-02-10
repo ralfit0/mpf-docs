@@ -211,7 +211,7 @@ this:
     #!     tags: default
     #! virtual_platform_start_active_switches: s_trough1, s_trough2, s_trough3, s_trough4, s_trough5, s_trough6
 
-So this is eight spaces, followed by the word "ball_switches", then a
+So this is four spaces, followed by the word "ball_switches", then a
 colon, then a space, then the name of your first switch, comma, then
 your second switch, comma, etc...
 
