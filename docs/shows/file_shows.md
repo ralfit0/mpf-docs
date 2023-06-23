@@ -18,7 +18,7 @@ A few notes for creating show files:
 * Show names are "machine-wide" within MPF. This means that if you
     have two different shows with the same name in different locations,
     MPF will get confused.
-* Valid characters for show names are z-x, 0-9, and the underscore.
+* Valid characters for show names are a-z, 0-9, and the underscore.
     Python objects cannot contain dashes in their names, meaning your
     show file names cannot include dashes.
 
